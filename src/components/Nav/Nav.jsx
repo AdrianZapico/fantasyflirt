@@ -11,7 +11,8 @@ export default function Nav() {
                 <DivNav>
                 <Image src={Logo}
                  width={350}
-                 height={110} />
+                 height={110}
+                  />
                 
                 <Header />
                 </DivNav>

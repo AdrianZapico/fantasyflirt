@@ -14,8 +14,9 @@ export default function Footer() {
             <FooterStyled>
                 <Spin>
                     <Image src={pepper}
-                        width={50}
-                        height={30} />
+                        width={30}
+                        height={10}
+                         />
                 </Spin>
                 <Text>All credits reserved Adrian Zapico & OpenIA</Text>
             </FooterStyled>

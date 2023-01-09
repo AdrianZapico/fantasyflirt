@@ -10,6 +10,7 @@ export const DivStories = styled.div`
    width: 50%;
    height: 600px;
    margin-left: 330px;
+   overflow-y: scroll;
 
 
 
@@ -20,7 +21,7 @@ export const Text = styled.p`
     text-align: center;
     font-family:'Great Vibes',cursive ;
     color: #e51c23;
-    font-size: 25px;
+    font-size: 45px;
     padding-top: 100px;
 
 `
